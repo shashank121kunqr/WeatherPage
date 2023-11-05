@@ -3,5 +3,3 @@ Weather Page is a user-friendly web application that provides real-time weather 
 
 ![Weather Page Screenshot](https://github.com/avinashkr7/Weather-Page/assets/118923593/cf03b8f7-85e3-4838-ba78-7c9d0295b028)
 
-# Live Demo :
-https://avinashkr7.github.io/Weather-Page/
